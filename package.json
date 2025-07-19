@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^2.2.4",
+    "framer-motion": "^12.23.6",
+    "react-countup": "^6.5.3",
+    "react-toastify": "^11.0.5",
+    "recharts": "^2.15.4"
+  }
+}
